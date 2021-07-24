@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19638" started-at="2021-07-24T22:18:03Z" finished-at="2021-07-24T22:18:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19638" started-at="2021-07-24T22:18:03Z" finished-at="2021-07-24T22:18:23Z">
+      <class name="com.encora.nearpedia.flights.test.FlightUserLoginTest">
+        <test-method status="PASS" signature="loginNearpediaFlightsSelectionPage()[pri:0, instance:com.encora.nearpedia.flights.test.FlightUserLoginTest@ae45eb6]" name="loginNearpediaFlightsSelectionPage" duration-ms="19566" started-at="2021-07-24T22:18:03Z" finished-at="2021-07-24T22:18:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginNearpediaFlightsSelectionPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.encora.nearpedia.flights.test.FlightUserLoginTest@ae45eb6]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-07-24T22:18:23Z" finished-at="2021-07-24T22:18:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.encora.nearpedia.flights.test.FlightUserLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
